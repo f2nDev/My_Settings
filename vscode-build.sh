@@ -18,3 +18,4 @@ code --install-extension usernamehw.errorlens --force
 code --install-extension ms-python.python --force
 code --install-extension ms-python.vscode-pylance --force
 code --install-extension esbenp.prettier-vscode --force
+code --install-extension vscodevim.vim --force
